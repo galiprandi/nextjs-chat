@@ -1,0 +1,6 @@
+onlyBuiltDependencies:
+  - '@clerk/shared'
+  - '@firebase/util'
+  - esbuild
+  - protobufjs
+  - sharp
